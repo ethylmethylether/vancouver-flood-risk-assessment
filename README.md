@@ -46,7 +46,6 @@ This project was completed using Python.
 
 Main libraries:
 
-```text
 numpy
 pandas
 geopandas
