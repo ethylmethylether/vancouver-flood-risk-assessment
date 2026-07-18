@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / IDE
+.ipynb_checkpoints/
+.spyproject/
+.spyderproject/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large raw data
+data/raw/dem/*.tif
+data/raw/dem/*.zip
+
+# Optional large processed rasters
+data/processed/*.tif
+
+# Temporary files
+*.tmp
+*.log
